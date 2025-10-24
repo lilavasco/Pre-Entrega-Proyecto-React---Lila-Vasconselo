@@ -1,7 +1,7 @@
 export const Footer = () => {
   return (
     <footer>
-      <p>Pagina creada por Beluzita</p>
+      <p>Lila Vasconselo 2025</p>
     </footer>
   );
 };
